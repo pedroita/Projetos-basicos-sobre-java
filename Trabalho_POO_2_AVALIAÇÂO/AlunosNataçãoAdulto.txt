@@ -1,0 +1,45 @@
++---------------------------------+
+Nome: voltei
+Data de nascimento: 19/03/1998
+Idade:22
+Estado Civil :Solteiro
+Endereço :Travessa joao afonso
+E-mail: Jouce@gmail.com
+Telefone : (88) 99430-555
+Telefone secundario: Não possui
+Dia do pagamento: null
+Matricula: 2525
+Horiario da turma: 17:30H
+Genero: MASCULINO
+Turma: MANHA
++---------------------------------+
++---------------------------------+
+Nome: KELLE CORDEIRO
+Data de nascimento: 19/03/1998
+Idade:22
+Estado Civil :Solteiro
+Endereço :Travessa joao afonso
+E-mail: Jouce@gmail.com
+Telefone : (88) 99430-555
+Telefone secundario: Não possui
+Dia do pagamento: null
+Matricula: 2525
+Horiario da turma: 17:30H
+Genero: FEMININO
+Turma: TARDE
++---------------------------------+
++---------------------------------+
+Nome: itala
+Data de nascimento: 19/03/1998
+Idade:22
+Estado Civil :Solteiro
+Endereço :Travessa joao afonso
+E-mail: Jouce@gmail.com
+Telefone : (88) 99430-555
+Telefone secundario: Não possui
+Dia do pagamento: null
+Matricula: 2525
+Horiario da turma: 19:30H
+Genero: FEMININO
+Turma: NOITE
++---------------------------------+

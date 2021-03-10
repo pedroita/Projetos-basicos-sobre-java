@@ -1,0 +1,45 @@
++---------------------------------+
+Nome: SILVA
+Data de nascimento: 19/03/1998
+Idade:22
+Estado Civil :Solteiro
+Endereço :Travessa joao afonso
+E-mail: Jouce@gmail.com
+Telefone : (88) 99430-555
+Telefone secundario: Não possui
+Dia do pagamento: 01
+Matricula: 2525
+Horiario da turma: 5:30H
+Genero: MASCULINO
+Turma: MANHA
++---------------------------------+
++---------------------------------+
+Nome: joaozinho CORDEIRO
+Data de nascimento: 19/03/1998
+Idade:22
+Estado Civil :Solteiro
+Endereço :Travessa joao afonso
+E-mail: Jouce@gmail.com
+Telefone : (88) 99430-555
+Telefone secundario: Não possui
+Dia do pagamento: 01
+Matricula: 2525
+Horiario da turma: 15:30H
+Genero: MASCULINO
+Turma: TARDE
++---------------------------------+
++---------------------------------+
+Nome: rodrigo CORDEIRO
+Data de nascimento: 19/03/1998
+Idade:22
+Estado Civil :Solteiro
+Endereço :Travessa joao afonso
+E-mail: Jouce@gmail.com
+Telefone : (88) 99430-555
+Telefone secundario: Não possui
+Dia do pagamento: 01
+Matricula: 2525
+Horiario da turma: 18:30H
+Genero: MASCULINO
+Turma: NOITE
++---------------------------------+
